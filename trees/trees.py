@@ -46,7 +46,6 @@ def plot_tree(segments, save_path="tree.png"):
 
     
     plt.title("Group 4's Tree Plot")
-    #plt.axis("equal")
     plt.axis("on")
     plt.xlabel("X Axis")
     plt.ylabel("Y Axis")
